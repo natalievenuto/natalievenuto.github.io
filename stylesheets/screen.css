@@ -70,35 +70,35 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 /* line 32, ../sass/screen.scss */
 body {
   font: 100% "Merriweather", serif;
-  color: #222228;
+  color: #4a4a4a;
   text-align: left;
   background-color: #fff;
 }
 
 /* line 39, ../sass/screen.scss */
 a:link {
-  color: #FF5B60;
+  color: #009B77;
   opacity: 1;
   text-decoration: none;
 }
 
 /* line 44, ../sass/screen.scss */
 a:visited {
-  color: #FF5B60;
+  color: #009B77;
   opacity: 1;
   text-decoration: none;
 }
 
 /* line 49, ../sass/screen.scss */
 a:hover {
-  color: #FF5B60;
+  color: #009B77;
   opacity: 0.6;
   text-decoration: none;
 }
 
 /* line 54, ../sass/screen.scss */
 a:active {
-  color: #FF5B60;
+  color: #009B77;
   opacity: 1;
   text-decoration: none;
 }
