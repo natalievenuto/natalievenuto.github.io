@@ -207,6 +207,10 @@ a:active {
   }
 }
 
+hr {
+border: 1px solid #C2D5D9;
+}
+
 /* line 128, ../sass/screen.scss */
 .strike {
   text-decoration: line-through;
