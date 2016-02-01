@@ -217,6 +217,10 @@ border: 1px solid #C2D5D9;
   color: #e5e5e5;
 }
 
+.longer-description {
+  padding-bottom: 50px;
+}
+
 .social {
   padding-top: 50px;
 }
