@@ -223,4 +223,21 @@ border: 1px solid #C2D5D9;
 }
 
 
+.twitter {
+  width:370px;
+  height:16px;
+  float:left;
+}
+
+.instagram {
+  width:370px;
+  height:16px;
+  float:left;
+}
+
+.dribbble {
+  width:370px;
+  height:16px;
+  float:left;
+}
 
