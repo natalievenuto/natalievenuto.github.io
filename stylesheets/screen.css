@@ -208,8 +208,8 @@ a:active {
 }
 
 .name {
-  text-decoration: small-caps;
-  color: #009B77;
+  font-variant: small-caps;
+  color: #282828;
 }
 
 hr {
